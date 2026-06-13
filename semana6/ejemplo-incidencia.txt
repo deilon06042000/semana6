@@ -1,0 +1,1 @@
+{"mensaje":"Incidencia registrada","tipo":"Iluminaci�n p�blica","descripcion":"La comunidad reporta que una l�mpara del parque no funciona desde hace varios d�as"}
